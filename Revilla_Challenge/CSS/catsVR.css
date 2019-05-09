@@ -1,0 +1,41 @@
+html {
+    background-image: url(../Images//leopard.jpg);
+}
+
+body {
+    width: 700px;
+    padding: 50px;
+   margin: auto;
+    text-align: center;
+    font-family: 'Calibri' 'Georgia' sans-serif;
+    border: 10px dashed white;
+    background-color: #9ee1ed;
+}
+
+a {
+    font-size: 12pt;
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+}
+
+h1 {
+    font-size: 36pt, color:#000;
+    border-top: 5px dotted #9ee1ed;
+    border-bottom: 5px dotted #9ee1ed;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 14pt;
+    line-height: 18pt;
+}
+
+
+img {
+    border: medium solid black;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, .3);
+}
