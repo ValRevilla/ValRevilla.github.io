@@ -1,0 +1,52 @@
+html {
+    background-color: black;
+}
+
+body {
+    margin: auto;
+    font-family: 'Courier';
+}
+
+h1 {
+    font-size: 36pt;
+    color: #ffc338;
+    border-top: 5px dotted white;
+    border-bottom: 5px dotted white;
+    text-transform: uppercase;
+    text-align: center
+}
+
+p {
+    font-size: 20pt;
+    color: teal;
+    text-align: left
+}
+
+h2 {
+    font-size: 27pt;
+    color: cornflowerblue;
+    text-align: center;
+}
+
+h3 {
+    font-size: 16pt;
+    color: cornflowerblue;
+    text-align: left;
+}
+
+ul {
+    color: white;
+    font-size: 14pt;
+    line-height: 18pt;
+}
+
+ol {
+    color: white;
+    font-size: 14pt;
+    line-height: 18pt;
+}
+
+
+img {
+    border: medium solid white;
+}
